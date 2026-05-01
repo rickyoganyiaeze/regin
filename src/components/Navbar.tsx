@@ -21,9 +21,7 @@ export function Navbar({ cartCount, onSearchChange }: NavbarProps) {
     <nav className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
         <div className="flex items-center justify-between gap-4">
-          {/* Tech-styled logo */}
-         <img src="/public/logo.png" width={150} alt="" />
-
+         <img src="/logo.png" width={150} alt="REGIN logo" />
           {/* Ecommerce-style search with category dropdown + button */}
           <div className="hidden md:flex flex-1 max-w-2xl">
             <div className="flex w-full rounded-md overflow-hidden ring-2 ring-[#FF9900] focus-within:ring-orange-500 transition">
