@@ -30,9 +30,9 @@ export function Footer() {
           <div>
             <h3 className="font-bold text-lg mb-4">Get in Touch</h3>
             <ul className="space-y-3 text-sm">
-              <li className="flex items-start gap-3"><Phone className="w-4 h-4 mt-1 flex-shrink-0" /><span className="text-blue-100">+91 1234 567 890</span></li>
-              <li className="flex items-start gap-3"><Mail className="w-4 h-4 mt-1 flex-shrink-0" /><span className="text-blue-100">support@regin.com</span></li>
-              <li className="flex items-start gap-3"><MapPin className="w-4 h-4 mt-1 flex-shrink-0" /><span className="text-blue-100">123 Commerce Street<br />Business District, India</span></li>
+             <li className="flex items-start gap-3"><Phone className="w-4 h-4 mt-1 flex-shrink-0" /><span className="text-blue-100">++234 707 685 7557</span></li>
+              <li className="flex items-start gap-3"><Mail className="w-4 h-4 mt-1 flex-shrink-0" /><span className="text-blue-100">rickyoganyiaeze@gmail.com</span></li>
+              <li className="flex items-start gap-3"><MapPin className="w-4 h-4 mt-1 flex-shrink-0" /><span className="text-blue-100">Nigeria</span></li>
             </ul>
           </div>
         </div>
